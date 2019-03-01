@@ -1,1 +1,0 @@
-/home/r21203/.bashrc
